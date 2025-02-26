@@ -1,0 +1,34 @@
+.auth-footer-links a{
+    color: var(--blue);
+}
+
+.auth-copyright{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.plex-font{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.auth-button{
+    background-color: var(--yellow);
+    border-radius: 8px;
+}
+
+.auth-button:hover{
+    background-color: #f2c200;
+    cursor: pointer;
+}
+
+.auth-text-field{
+    border-radius: 8px;
+}
+
+.text-blue{
+    color: var(--blue);
+}
+
+.inika-font{
+    font-family: 'Inika', serif;
+}
+
