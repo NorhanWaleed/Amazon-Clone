@@ -4,6 +4,8 @@
     --yellow: #ffd818;
     --blue: #2a8fd7;
     --gray: #717171;
+    --navy: #131921;
+    --light-navy: #232F3E;
 }
 
 @font-face {
@@ -16,6 +18,15 @@
   src: url('../assets/fonts/IBMPlexSansCondensed-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato-Regular.ttf') format('truetype');
+}
+
 body {
   font-family: 'Inika', sans-serif;
 }
+
+.lato-font{
+    font-family: 'Lato', sans-serif;
+} 
