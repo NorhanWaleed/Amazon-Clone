@@ -70,13 +70,6 @@ const HomPage = () => {
         array={getFilteredProductsWomen}
         text={'Min. 50% off | Unique kitchen finds | Amazon Brands & more'}
       />
-      <button
-        onClick={scrollToTop}
-        className="   text-white rounded-sm w-max-[1440px] w-[100%] mx-auto h-10  md:h-[80px] flex items-center justify-center  p-0 md:py-[17px] transition duration-300"
-        style={{ backgroundColor: ' rgba(55, 71, 90, 1)', color: 'white' }}
-      >
-        back to top
-      </button>
     </div>
   );
 };

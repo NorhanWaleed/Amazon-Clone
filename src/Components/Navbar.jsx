@@ -118,10 +118,10 @@ const Navbar = () => {
             <a href="#" className="hover:text-gray-300 flex-shrink-0">
               Sell
             </a>
-            <a href="#" className="hover:text-gray-300 flex-shrink-0">
+            <a href="/products" className="hover:text-gray-300 flex-shrink-0">
               Best Sellers
             </a>
-            <a href="#" className="hover:text-gray-300 flex-shrink-0">
+            <a href="/products" className="hover:text-gray-300 flex-shrink-0">
               Today&apos;s Deals
             </a>
             <a href="#" className="hover:text-gray-300 flex-shrink-0">
@@ -142,7 +142,7 @@ const Navbar = () => {
             <a href="#" className="hover:text-gray-300 flex-shrink-0">
               Fashion
             </a>
-            <a href="#" className="hover:text-gray-300 flex-shrink-0">
+            <a href="/products" className="hover:text-gray-300 flex-shrink-0">
               New Releases
             </a>
             <a href="#" className="hover:text-gray-300 flex-shrink-0">
@@ -249,10 +249,10 @@ const Navbar = () => {
               <a href="#" className="hover:text-gray-300">
                 Sell
               </a>
-              <a href="#" className="hover:text-gray-300">
+              <a href="/products" className="hover:text-gray-300">
                 Best Sellers
               </a>
-              <a href="#" className="hover:text-gray-300">
+              <a href="/products" className="hover:text-gray-300">
                 Today&apos;s Deals
               </a>
               <a href="#" className="hover:text-gray-300">
@@ -273,7 +273,7 @@ const Navbar = () => {
               <a href="#" className="hover:text-gray-300">
                 Fashion
               </a>
-              <a href="#" className="hover:text-gray-300">
+              <a href="/products" className="hover:text-gray-300">
                 New Releases
               </a>
               <a href="#" className="hover:text-gray-300">
